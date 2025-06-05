@@ -7,7 +7,7 @@
 
 ## 📫 Me contacter
 
-- [🌐 Portfolio](https://angelica-lazaro.vercel.app)
+- [🌐 Portfolio](https://angelica-lazaro-dev.vercel.app)
 - [💼 LinkedIn](https://www.linkedin.com/in/angelicamlazarod)
 - 📧 Email : angelicamld@gmail.com
 
