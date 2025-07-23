@@ -10,6 +10,8 @@
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=angelicalazaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=angelicalazaro&theme=tokyonight)
+
 ![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=angelicalazaro&theme=tokyo-night)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicalazaro&layout=compact&theme=tokyonight)
