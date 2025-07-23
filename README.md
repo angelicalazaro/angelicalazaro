@@ -8,15 +8,15 @@
 
 ## 📊 Mes Statistiques GitHub
 
-<p align="center">
+<div align="center">
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=angelicalazaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=angelicalazaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=angelicalazaro&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=angelicalazaro&theme=tokyonight" alt="GitHub Streak" />
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicalazaro&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicalazaro&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 
-</p>
+</div>
 
 ## 🛠️ Technologies & Compétences
 
