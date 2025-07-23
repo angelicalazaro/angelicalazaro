@@ -2,8 +2,9 @@
 
 🌱 Développeuse web passionnée par l’accessibilité, l’UX, et le code propre.  
 🎓 Formée à la Wild Code School – Bac +2 DWWM  
+🎓 Concepteur Développeur d'Applications à l'IPI Lyon en cours
 🌍 Je parle français, anglais et espagnol  
-📍 Actuellement en recherche d’alternance
+
 
 ## 📫 Me contacter
 
