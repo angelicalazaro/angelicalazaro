@@ -6,13 +6,11 @@
 
 ## 📊 Mes Statistiques GitHub
 
-## 📊 Mes Statistiques GitHub
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=angelicalazaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
 
-<img src="https://streak-stats.demolab.com/?user=angelicalazaro&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=angelicalazaro&theme=tokyonight" width="400" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicalazaro&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 
