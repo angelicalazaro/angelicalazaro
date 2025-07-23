@@ -12,8 +12,7 @@
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicalazaro&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelicalazaro&theme=tokyonight)
-
+![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=angelicalazaro&theme=tokyo-night)
 </div>
 
 ## 🛠️ Technologies & Compétences
