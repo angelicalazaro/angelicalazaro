@@ -45,7 +45,3 @@
 - [🌐 Portfolio](https://angelica-lazaro-dev.vercel.app)
 - [💼 LinkedIn](https://www.linkedin.com/in/angelicamlazarod)
 - 📧 Email : angelicamld@gmail.com
-
----
-
-*"Le code accessible, c'est du code qui respecte tout le monde."* 💙
